@@ -1,0 +1,6 @@
+move(i,table,0) move(k,c,0) move(h,i,1) move(j,table,1) move(k,g,1) move(c,k,2) move(e,j,2) move(h,table,2) move(b,c,3) move(d,table,3) move(a,e,4) move(i,d,4) move(h,i,5) move(l,b,5) move(m,h,6) move(n,a,6) move(o,m,7)
+
+move(i,table,0) move(k,c,0) move(h,i,1) move(j,table,1) move(k,g,1) move(c,k,2) move(e,j,2) move(h,table,2) move(b,c,3) move(d,table,3) move(a,e,4) move(i,d,4) move(h,i,5) move(l,b,5) move(m,h,6) move(n,a,6) move(o,m,7)
+
+
+move(i,table,0) move(k,c,0) move(h,table,1) move(j,table,1) move(k,g,1) move(c,k,2) move(e,j,2) move(b,c,3) move(d,table,3) move(a,e,4) move(i,d,4) move(h,i,5) move(l,b,5) move(n,a,5) move(m,h,6) move(o,m,7)
